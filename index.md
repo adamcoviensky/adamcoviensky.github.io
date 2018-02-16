@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+# Repository of Adam Coviensky's Data Science Work
+##### This repository is composed of individual work, projects, and coursework from the MSc in Data Science at Columbia University
 
-You can use the [editor on GitHub](https://github.com/adamcoviensky/adamcoviensky.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+Analyzing the supply and demand of taxis at LaGuardia Airport. Our team worked with NYC Taxi and Limousine Commission to analyze the supply and demand of taxis at LGA and produce a webapp to be used by port authority to visualize the predicted number of taxis needed at the airport for the subsequent six hours given current conditions. My main contributions were creating the ensemble model used in the web app, data cleaning and exploration, and creating the callback features of the app.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Video of the Web App](/Capstone/LGAWebApp.mov)
+
+![LSTM Results](/Capstone/LSTMResults.m4v)
+
+![Final Report](/Capstone/FinalReport.pdf)
 
 ```markdown
 Syntax highlighted code block
