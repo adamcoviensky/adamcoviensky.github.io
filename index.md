@@ -10,6 +10,14 @@ Analyzing the supply and demand of taxis at LaGuardia Airport. Our team worked w
 
 [Final Report](Capstone/FinalReport.pdf)
 
+
+Creating a user interactive recommender system for GoodReads books. We created a web app for book recommendations from a dataset of 10k books and 53k users with 6 million ratings. We built a factorization machine which takes in user input on the weighting of genres from which they want to receive their recommendations. The model's learned parameters are then adjusted in real-time and new predictions are made based off the user input. My main contributinos were testing different factorization machine packages as well as my own, preprocessing the data, and creating the functions to make new predictions based on user input.
+
+[Repository](https://github.com/sdoctor7/book-recommendations)
+
+[WebApp](http://what-should-i-read-next.herokuapp.com/)
+
+
 ```markdown
 Syntax highlighted code block
 
