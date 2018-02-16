@@ -6,9 +6,7 @@
 
 Analyzing the supply and demand of taxis at LaGuardia Airport. Our team worked with NYC Taxi and Limousine Commission to analyze the supply and demand of taxis at LGA and produce a webapp to be used by port authority to visualize the predicted number of taxis needed at the airport for the subsequent six hours given current conditions. My main contributions were creating the ensemble model used in the web app, data cleaning and exploration, and creating the callback features of the app.
 
-![Video of the Web App](/Capstone/LGAWebApp.mov)
-
-![LSTM Results](/Capstone/LSTMResults.m4v)
+![Video of the Web App](Capstone/LGAWebApp.mov)
 
 [Final Report](Capstone/FinalReport.pdf)
 
