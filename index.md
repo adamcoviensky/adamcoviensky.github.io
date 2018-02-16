@@ -10,7 +10,7 @@ Analyzing the supply and demand of taxis at LaGuardia Airport. Our team worked w
 
 ![LSTM Results](/Capstone/LSTMResults.m4v)
 
-[Final Report](/Capstone/FinalReport.pdf)
+[Final Report](Capstone/FinalReport.pdf)
 
 ```markdown
 Syntax highlighted code block
