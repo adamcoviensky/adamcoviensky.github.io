@@ -18,6 +18,22 @@ Creating a user interactive recommender system for GoodReads books. We created a
 [WebApp](http://what-should-i-read-next.herokuapp.com/)
 
 
+Analyzing up and coming neighbourhoods in New York City. Using census data as well as sidewalk cafe and bar licenses, we made visualizations to perform exploratory analysis on which regions in New York City are "up and coming."
+
+[Executive Summary](https://marikalohmus.shinyapps.io/executive_summary/)
+
+
+## Applied Machine Learning
+
+Predicting NYC apartment listing prices. Built a regression model to predict optimal listing prices of NYC apartments. Took survey data of over 15k samples and 80 features. I performed both manual and automatic feature selection, feature engineering, and tuned the model's hyper parameters to achieve R^2 above 0.60.
+
+[Python Code](AML/homework2_rent.py)
+
+
+Assignment 2
+[My Link](AML/newhw3.htm)
+
+
 ```markdown
 Syntax highlighted code block
 
