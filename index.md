@@ -31,7 +31,7 @@ Predicting NYC apartment listing prices. Built a regression model to predict opt
 
 
 Assignment 2
-[My Link](AML/newhw3.htm)
+[My Link](AML/Clean_HW2.ipynb)
 
 
 ```markdown
